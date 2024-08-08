@@ -3,6 +3,7 @@
 <h3 align="center">A  passionate AI developer</h3>
 <img align="right" alt="coding" width="400"  src="https://www.deviantart.com/pixeljeff/art/Coding-990517671">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indranujghosh&label=Profile%20views&color=0e75b6&style=flat" alt="indranujghosh" /> </p>
 
 - 🔭 I’m currently working on **NextJs**
